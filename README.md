@@ -25,8 +25,13 @@ please note that the file name.
 
 ## Step 4: Hit the continue at the top inside the navibar
 
+# Disclaimer
 The icons we have used in our game come from https://www.flaticon.com/, which is a really greate icon library, many thanks to the community.
+
 The photo of Professor Jonathan Rose comes from https://www.ece.utoronto.ca/faculty/faculty-directory/, which is publicly posted.
+
 The background images of the game come from https://dynamicwallpaper.club.
+
 The configuration of the GIC and Interrupts come from the DE1-Soc Official User handout.
+
 We use cpulator as simulator to test and debug our game, https://cpulator.01xz.net/?sys=arm-de1soc, which is an amazing CPU simulation web application, created by Dr. Henry Wong
