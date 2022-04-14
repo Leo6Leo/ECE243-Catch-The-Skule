@@ -19,7 +19,7 @@ The graphical data should only be used for the project "Catch The Skule" in ECE2
 https://cpulator.01xz.net/?sys=arm-de1soc
 
 ## Step 2: Copy the code from CPU_lator.c
-
+please note that the file name.
 ## Step 3: Config the game
 ![CleanShot 2022-04-14 at 13 03 42@2x](https://user-images.githubusercontent.com/36619969/163439539-73eeb69d-2507-47d4-9803-fa8ad0401b62.png)
 
